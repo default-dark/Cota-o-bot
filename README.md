@@ -2,6 +2,7 @@
 com o valor da moeda
 
 programado: DEFAULT
+
 !aviso este programa e proibido vender
 !não sou responsavel pelo uso do programa
 
@@ -17,4 +18,6 @@ fiz durante uma video aula
 
 eh è isso tchau :)
 
- 
+video do canal do professor a onde aprendi
+
+https://www.youtube.com/watch?v=qNkgzl6f3rM
